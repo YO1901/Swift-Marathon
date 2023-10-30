@@ -1,1 +1,1 @@
-# Swift-Marathon-Week-1
+# Swift-Marathon
